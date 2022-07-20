@@ -1,2 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Tower_battle\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Tower_battle\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\shaders"/></dataSet></merger>
+version https://git-lfs.github.com/spec/v1
+oid sha256:be89ce1fc7ece359fb03e452bc5451e982b775a0a15d2d54ae3c73db9b05b71a
+size 526

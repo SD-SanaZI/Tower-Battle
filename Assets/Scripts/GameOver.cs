@@ -1,34 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UIElements;
-using UnityEngine.SceneManagement;
-
-public class GameOver : MonoBehaviour
-{
-    private Button _restartButton;
-    private Label _message;
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    public void Activate(string message)
-    {
-        gameObject.SetActive(true);
-        Time.timeScale = (Time.timeScale + 1) % 2;
-        _message = GetComponent<UIDocument>().rootVisualElement.Q("Screen").Q<Label>("Text");
-        _message.text = message;
-        _restartButton = GetComponent<UIDocument>().rootVisualElement.Q("Screen").Q<Button>("NewGame");
-        _restartButton.clickable.clicked += () =>
-        {
-            Time.timeScale = (Time.timeScale + 1) % 2;
-            SceneManager.LoadScene("Scenes/Game");
-        };
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d777d445c7a29a6458589807dd4e52246c24d2a6fb06767c40b0727bad4cf8
+size 998

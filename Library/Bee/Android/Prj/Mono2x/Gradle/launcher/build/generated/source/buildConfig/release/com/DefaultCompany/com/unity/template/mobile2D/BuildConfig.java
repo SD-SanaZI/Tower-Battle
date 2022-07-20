@@ -1,12 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package com.DefaultCompany.com.unity.template.mobile2D;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = false;
-  public static final String APPLICATION_ID = "com.DefaultCompany.com.unity.template.mobile2D";
-  public static final String BUILD_TYPE = "release";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0.2";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a10c28ebc6777a2050c5a668f837ffb22b61bd9a1dd584bd336b50b5936011
+size 438

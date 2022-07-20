@@ -1,27 +1,3 @@
-{
-  "version": 1,
-  "applicationId": "com.unity3d.player",
-  "variantType": "LIBRARY",
-  "elements": [
-    {
-      "outputType": {
-        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
-      },
-      "apkData": {
-        "type": "MAIN",
-        "splits": [],
-        "versionCode": 1,
-        "versionName": "1.0.2",
-        "outputFile": "unityLibrary-release.aar",
-        "fullName": "release",
-        "baseName": "release",
-        "dirName": ""
-      },
-      "path": "AndroidManifest.xml",
-      "properties": {
-        "packageId": "com.unity3d.player",
-        "split": ""
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ef109e986b6674f65843c61d7c7c8fa140cf1fb05cf0aa9d567b8773f36dcc
+size 596

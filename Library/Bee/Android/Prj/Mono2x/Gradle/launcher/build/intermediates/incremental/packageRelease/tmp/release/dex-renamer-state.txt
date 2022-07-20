@@ -1,4 +1,3 @@
-#Tue Jul 19 15:12:51 MSK 2022
-base.0=E\:\\Tower_battle\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b452bd42fee1bd8c5b472f8bca341187177a23f92285734a65fc2ea871abbf9
+size 225

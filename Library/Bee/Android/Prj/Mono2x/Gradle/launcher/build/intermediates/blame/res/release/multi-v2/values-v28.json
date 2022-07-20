@@ -1,28 +1,3 @@
-{
-    "logs": [
-        {
-            "outputFile": "E:\\Tower_battle\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v28\\values-v28.xml",
-            "map": [
-                {
-                    "source": "E:\\Tower_battle\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values-v28\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "0",
-                        "startOffsets": "53",
-                        "endLines": "4",
-                        "endColumns": "8",
-                        "endOffsets": "229"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "8",
-                        "endOffsets": "229"
-                    }
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffc8b4c0fba1b3e8ec09c3c95bf600e66aa6346dea30f8977b3a887c095f3e22
+size 1093

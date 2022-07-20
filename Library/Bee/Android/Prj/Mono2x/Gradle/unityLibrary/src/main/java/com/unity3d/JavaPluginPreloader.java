@@ -1,18 +1,3 @@
-package com.unity3d;
-public class JavaPluginPreloader {
-    static {
-        loadJavaClass(com.unity3d.adaptiveperformance.samsung.GameLoadBooster.class.getName());
-
-    }
-    private static void loadJavaClass(String name) {
-        try {
-            Class.forName(name);
-        }
-        catch (ClassNotFoundException ex) {
-            android.util.Log.e("Unity", "Failed to load class", ex);
-        }
-        catch (LinkageError err) {
-            android.util.Log.e("Unity", "Failed to load class", err);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e87922ceed789ba3932743c58cf13596212a91499a29afc4712f54d322446c
+size 529

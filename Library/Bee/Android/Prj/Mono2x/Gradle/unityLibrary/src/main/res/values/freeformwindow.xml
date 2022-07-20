@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="FreeformWindowSize_maximize"></string>
-    <string name="FreeformWindowSize_tablet"></string>
-    <string name="FreeformWindowSize_phone"></string>
-    <string name="FreeformWindowOrientation_landscape"></string>
-    <string name="FreeformWindowOrientation_portrait"></string>
-</resources>
+version https://git-lfs.github.com/spec/v1
+oid sha256:425d3881c49fbdc050a94641abe5c55bc56aca2e214fba010c4b1ed3a8f3f9bc
+size 359

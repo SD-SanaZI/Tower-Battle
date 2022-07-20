@@ -1,17 +1,3 @@
-package com.unity.androidnotifications;
-
-// Provide a wrapper for NotificationChannel.
-// Create this wrapper for all Android versions as NotificationChannel is only available for Android O or above.
-public class NotificationChannelWrapper {
-
-    public String id;
-    public String name;
-    public int importance;
-    public String description;
-    public boolean enableLights;
-    public boolean enableVibration;
-    public boolean canBypassDnd;
-    public boolean canShowBadge;
-    public long[] vibrationPattern;
-    public int lockscreenVisibility;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:04d5204ef0310b842e15a9b8e495b3177429794c4803ad13df43b57b31f71f91
+size 557

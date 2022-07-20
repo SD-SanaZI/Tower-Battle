@@ -1,16 +1,3 @@
-com.DefaultCompany.com.unity.template.mobile2D
-id unitySurfaceView
-mipmap app_icon
-mipmap app_icon_round
-mipmap ic_launcher_background
-mipmap ic_launcher_foreground
-string FreeformWindowOrientation_landscape
-string FreeformWindowOrientation_portrait
-string FreeformWindowSize_maximize
-string FreeformWindowSize_phone
-string FreeformWindowSize_tablet
-string app_name
-string game_view_content_description
-style BaseUnityTheme
-style UnityThemeSelector
-style UnityThemeSelector_Translucent
+version https://git-lfs.github.com/spec/v1
+oid sha256:4115b9dcb0b8622b615665a46eabf9a583d92a0b2d15b6053f510d7af750f597
+size 486

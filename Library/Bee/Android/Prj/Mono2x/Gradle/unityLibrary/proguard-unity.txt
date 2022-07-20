@@ -1,7 +1,3 @@
--keep class bitter.jnibridge.* { *; }
--keep class com.unity3d.player.* { *; }
--keep interface com.unity3d.player.IUnityPlayerLifecycleEvents { *; }
--keep class org.fmod.* { *; }
--keep class com.google.androidgamesdk.ChoreographerCallback { *; }
--keep class com.google.androidgamesdk.SwappyDisplayManager { *; }
--ignorewarnings
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ce0f4b6cda03ed18445187b9cf2152cd875e24bb2a45e598ace7a13ec7b432
+size 327

@@ -1,12 +1,3 @@
-/**
- * Automatically generated file. DO NOT MODIFY
- */
-package com.unity3d.player;
-
-public final class BuildConfig {
-  public static final boolean DEBUG = false;
-  public static final String LIBRARY_PACKAGE_NAME = "com.unity3d.player";
-  public static final String BUILD_TYPE = "release";
-  public static final int VERSION_CODE = 1;
-  public static final String VERSION_NAME = "1.0.2";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c398e930e4f6c1acc5417e247c9a3215be4cb2fb8d987916848c67f115dfd82
+size 388
